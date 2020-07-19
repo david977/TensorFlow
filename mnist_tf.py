@@ -1,6 +1,6 @@
 import numpy as np
 import tensorflow as tf
-imort pandas as pd1
+imort pandas as pd2
 
 #Import MNIST data
 from tensorflow.examples.tutorials.mnist import input_data
