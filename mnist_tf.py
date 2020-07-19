@@ -1,5 +1,6 @@
 import numpy as np
 import tensorflow as tf
+imort pandas as pd
 
 #Import MNIST data
 from tensorflow.examples.tutorials.mnist import input_data
